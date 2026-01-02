@@ -2,7 +2,6 @@
 ## Forked jwasham/coding-interview-university and following the footsteps of his curriculum
 
 ## Interview Prep Books
-
 Here are some recommended books to supplement your learning.
 
 - [Coding Interview Patterns: Nail Your Next Coding Interview](https://geni.us/q7svoz)
